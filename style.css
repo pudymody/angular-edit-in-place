@@ -1,0 +1,27 @@
+.click-to-edit {
+	display: inline-block;
+	cursor: pointer;
+}
+.click-to-edit-value {
+	background: yellow;
+}
+.click-to-edit-input {
+	margin: 0;
+	padding: 0 5px;
+	border: 1px solid #aaa;
+	display: inline-block;
+}
+.click-to-edit-btn {
+	text-decoration: none;
+	color: #FFF;
+	padding: 2px 8px;
+	border-radius: 2px;
+	display: inline-block;
+	margin: 0 2px;
+}
+.click-to-edit-btn.save {
+	background: cornflowerblue;
+}
+.click-to-edit-btn.close {
+	background: red;
+}
